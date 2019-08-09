@@ -1,2 +1,2 @@
-# handwritten_digits_recognition
-Handwritten digits recognition achieved by Multilayer Perceptron Neural Network in MATLAB
+# Backpropagation Neural Network - Hand Written Digits Recognization Implementation
+Please read pdf for more information.
