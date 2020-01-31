@@ -1,6 +1,6 @@
 function [] = plotDigits
 
-load mnist_all.mat;
+load ../dat/mnist_all.mat;
 
 T = zeros(10, 784);
 T(1, :) = mean(train0);

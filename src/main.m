@@ -1,5 +1,5 @@
 % Load database.
-load mnist_all.mat;
+load ../dat/mnist_all.mat;
 % Inputs hidden layer number and neuron number.
 prompt1 = 'Input your layer number: ';
 l = input(prompt1);
